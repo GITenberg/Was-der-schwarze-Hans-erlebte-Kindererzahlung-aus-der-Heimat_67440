@@ -1,0 +1,30 @@
+_repo: Was-der-schwarze-Hans-erlebte-Kindererzahlung-aus-der-Heimat_67440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zenner, Theodor
+    birthdate: 1890
+    deathdate: 1948
+    gutenberg_agent_id: '54274'
+    url: http://www.gutenberg.org/2009/agents/54274
+description: ''
+gutenberg_issued: '2022-02-19'
+identifiers:
+  gutenberg: '67440'
+language: de
+pgterms:marc905: 20211004085504theodor
+pgterms:marc906: '1921'
+pgterms:marc907: LU
+production_note: Jens Sadowski, Richard Scheibel, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Luxembourg :Kremer & Rettel,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'DH'
+- !lcsh 'Luxembourg -- History -- Juvenile literature'
+- GITenberg
+title: 'Was der schwarze Hans erlebte: Kindererzählung aus der Heimat'
+url: http://www.gutenberg.org/ebooks/67440
