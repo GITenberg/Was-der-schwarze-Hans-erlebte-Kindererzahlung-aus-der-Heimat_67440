@@ -1,5 +1,8 @@
 _repo: Was-der-schwarze-Hans-erlebte-Kindererzahlung-aus-der-Heimat_67440
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67440-h/images/cover.jpg
 creator:
   author:
     agent_name: Zenner, Theodor
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54274'
     url: http://www.gutenberg.org/2009/agents/54274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67440#Was-der-schwarze-Hans-erlebte-Kindererzahlung-aus-der-Heimat
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67440'
